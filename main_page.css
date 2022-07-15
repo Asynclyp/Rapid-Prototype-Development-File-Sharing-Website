@@ -1,0 +1,49 @@
+
+html{
+    background-color: rgb(231, 214, 219);
+}
+
+div.user_info{
+    text-align: left;
+    height: 40px;
+    display:inline-block;
+    margin-bottom: 30px;
+}
+
+h1{
+    display: inline;
+    font-size: 50px;
+    color:rgb(12, 12, 12)
+}
+
+form{
+    display: inline;
+}
+
+div.file_form{
+    background-color: rgb(173, 197, 211);
+    display:inline-block;
+    margin-top: 10px;
+}
+
+input[type='submit']{
+    background-color: #9bd19d;
+    border: none;
+    color: white;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+div.private_list {
+    position: relative;
+    padding: 5px;
+
+  }
+
+div.public_list {
+    position: relative;
+    padding: 5px;
+
+  }
